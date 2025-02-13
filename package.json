@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  },
+  "scripts": {
+    "build": "esbuild src/*.js --outdir=dist --minify --splitting --format=esm"
+  }
+}
