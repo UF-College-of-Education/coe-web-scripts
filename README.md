@@ -42,3 +42,5 @@ Update all packages:
 Update single package:
 
 ```npm i packageNameHere@latest```
+
+## Change
