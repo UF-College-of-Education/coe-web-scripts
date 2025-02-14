@@ -16,9 +16,11 @@ CSS files are stored in the code_snippets folder. You can use code comments to e
 
 * node_modules - This is the folder that holds third party code managed through npm. This should only be updated on the command line/terminal using the one of the commands below. 
 Update all packages:
+
 ```npm update```
 
 Update single package:
+
 ```npm i packageNameHere@latest```
 
 * .gitignore -  Files that should be ignored by git version control.
