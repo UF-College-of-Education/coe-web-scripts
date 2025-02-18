@@ -2,6 +2,10 @@
 
 This repo houses scripts used for UF College of Education websites. The idea is to create single reference point for scripts where we can provide more detailed documentation to collaborate more effectively. Here is an overview of the set up of this repo.
 
+## IMPORTANT PRIVACY NOTICE
+
+No personal or sensitive data of any kind should be included in this repository in order to comply with state and federal privacy law. 
+
 ## Repo Structure
 
 ### JavaScript Files
